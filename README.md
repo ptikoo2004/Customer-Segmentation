@@ -8,7 +8,7 @@ An interactive web application for customer segmentation using **RFM Analysis** 
 
 ## 🚀 Live Demo
 
-[Insert your deployed app link here]
+[https://customer-segmentation-2004.streamlit.app]
 
 ## 📊 Features
 
