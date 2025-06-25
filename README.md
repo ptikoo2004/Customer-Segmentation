@@ -137,7 +137,7 @@ The application automatically identifies four key customer segments:
 
 ## 🚀 Deployment
 
-### Streamlit Cloud (Recommended)
+### Streamlit Cloud 
 1. Push your code to GitHub
 2. Visit [share.streamlit.io](https://share.streamlit.io)
 3. Connect your GitHub repository
