@@ -173,21 +173,11 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - **Dataset**: [UCI Online Retail Dataset](https://archive.ics.uci.edu/ml/datasets/Online+Retail)
 - **Inspiration**: RFM analysis methodology in customer relationship management
 - **Tools**: Built with amazing open-source libraries
-
-## 📞 Contact
-
-**Your Name** - [your.email@example.com](mailto:your.email@example.com)
-
-**Project Link**: [https://github.com/yourusername/customer-segmentation-dashboard](https://github.com/yourusername/customer-segmentation-dashboard)
 
 ---
 
